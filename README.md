@@ -13,7 +13,7 @@ University of Applied Sciences Niederrhein.
   
 Uses Eigen3, so to compile use:
 
-g++ -std=c++17 -I <path_to_eigen> <Input Cpp File> -o <Output name>
+g++ -std=c++17 -I <path_to_eigen> Input_Cpp_File -o Output_filename
 
 for example:
 
